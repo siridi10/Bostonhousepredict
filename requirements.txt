@@ -1,6 +1,9 @@
 Flask
-scikit-learn
 pandas
 numpy
 matplotlib
 gunicorn
+Jinja2
+Werkzeug
+scipy
+scikit-learn
